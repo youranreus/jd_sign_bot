@@ -18,7 +18,13 @@
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
 trigger added 2020.11.5
+
 trigger added 2020.12.6-1
+
 trigger added 2021.1.6
+
 trigger added 2021.1.23
+
 trigger added 2021.2.19
+
+trigger added 2021.2.19-2
